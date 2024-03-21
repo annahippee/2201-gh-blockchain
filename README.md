@@ -33,6 +33,8 @@ We plan to implement the following:
 - Including information about the institutions scientists are doing research under
 - More search and filtering features such as by location, scientist, or institution
 
+## Learn More
+[![DeSci Funder Video](https://img.youtube.com/vi/GcnnxkMhzzg/0.jpg)](https://www.youtube.com/watch?v=YGcnnxkMhzzg)
 
         
 
